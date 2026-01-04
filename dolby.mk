@@ -101,9 +101,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DSPVolumeSynchronizer
 
-# DolbyManager
+# LunarisDolby
 PRODUCT_PACKAGES += \
-    DolbyManager
+    LunarisDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
